@@ -1,0 +1,77 @@
+[15:08:04] [main/INFO]: Loading for game Minecraft 1.16.4
+[15:08:04] [ForkJoinPool-1-worker-7/WARN]: The mod "autoconfig1u" contains invalid entries in its mod json:
+- Unsupported root entry "$schema" at line 2 column 14
+[15:08:04] [ForkJoinPool-1-worker-6/WARN]: The mod "libcd" contains invalid entries in its mod json:
+- Unsupported root entry "licence" at line 9 column 12
+[15:08:04] [ForkJoinPool-1-worker-5/WARN]: The mod "autoconfig1u" contains invalid entries in its mod json:
+- Unsupported root entry "$schema" at line 2 column 14
+[15:08:04] [ForkJoinPool-1-worker-6/WARN]: The mod "autoconfig1u" contains invalid entries in its mod json:
+- Unsupported root entry "$schema" at line 2 column 14
+[15:08:04] [ForkJoinPool-1-worker-2/WARN]: The mod "autoconfig1u" contains invalid entries in its mod json:
+- Unsupported root entry "$schema" at line 2 column 14
+[15:08:04] [ForkJoinPool-1-worker-5/WARN]: The mod "autoconfig1u" contains invalid entries in its mod json:
+- Unsupported root entry "$schema" at line 2 column 14
+[15:08:04] [ForkJoinPool-1-worker-4/WARN]: The mod "autoconfig1u" contains invalid entries in its mod json:
+- Unsupported root entry "$schema" at line 2 column 14
+[15:08:04] [ForkJoinPool-1-worker-4/WARN]: The mod "autoconfig1u" contains invalid entries in its mod json:
+- Unsupported root entry "$schema" at line 2 column 14
+[15:08:04] [ForkJoinPool-1-worker-1/WARN]: The mod "autoconfig1u" contains invalid entries in its mod json:
+- Unsupported root entry "$schema" at line 2 column 14
+[15:08:04] [ForkJoinPool-1-worker-4/WARN]: The mod "autoconfig1u" contains invalid entries in its mod json:
+- Unsupported root entry "$schema" at line 2 column 14
+[15:08:04] [ForkJoinPool-1-worker-3/WARN]: The mod "cardinal-components" contains invalid entries in its mod json:
+- Unsupported root entry "side" at line 8 column 9
+[15:08:04] [ForkJoinPool-1-worker-6/WARN]: The mod "autoconfig1u" contains invalid entries in its mod json:
+- Unsupported root entry "$schema" at line 2 column 14
+[15:08:04] [ForkJoinPool-1-worker-5/WARN]: The mod "cardinal-components-world" contains invalid entries in its mod json:
+- Unsupported root entry "side" at line 8 column 11
+[15:08:04] [ForkJoinPool-1-worker-4/WARN]: The mod "cardinal-components-util" contains invalid entries in its mod json:
+- Unsupported root entry "side" at line 8 column 11
+[15:08:04] [ForkJoinPool-1-worker-3/WARN]: The mod "cardinal-components-base" contains invalid entries in its mod json:
+- Unsupported root entry "side" at line 8 column 11
+[15:08:04] [ForkJoinPool-1-worker-6/WARN]: The mod "cardinal-components-scoreboard" contains invalid entries in its mod json:
+- Unsupported root entry "side" at line 8 column 11
+[15:08:04] [ForkJoinPool-1-worker-4/WARN]: The mod "cardinal-components-level" contains invalid entries in its mod json:
+- Unsupported root entry "side" at line 8 column 11
+[15:08:04] [ForkJoinPool-1-worker-3/WARN]: The mod "cardinal-components-block" contains invalid entries in its mod json:
+- Unsupported root entry "side" at line 8 column 11
+[15:08:04] [ForkJoinPool-1-worker-4/WARN]: The mod "cardinal-components-entity" contains invalid entries in its mod json:
+- Unsupported root entry "side" at line 8 column 11
+[15:08:04] [ForkJoinPool-1-worker-5/WARN]: The mod "cardinal-components-item" contains invalid entries in its mod json:
+- Unsupported root entry "side" at line 8 column 11
+[15:08:04] [ForkJoinPool-1-worker-7/WARN]: The mod "cardinal-components-chunk" contains invalid entries in its mod json:
+- Unsupported root entry "side" at line 8 column 11
+[15:08:04] [main/WARN]: Warnings were found! 
+ - Conflicting versions found for fabric-networking-v0: used 0.1.10+e00ecb5f4e, also found 0.1.10+6a2618f53a
+ - Mod 'Modern Industrialization' (modern_industrialization) recommends any version of mod roughlyenoughitems, which is missing!
+	 - You must install any version of roughlyenoughitems.
+[15:08:04] [main/INFO]: [FabricLoader] Loading 134 mods: fabric-keybindings-v0@0.2.0+6a2618f53a, couplings@1.3.3, dungeonsmod@1.16.2-0.8.0.0-alpha8, kubejs@1.5.4, cloth-common-events-v1@1.4.8, fabricloader@0.10.8, cloth-durability-bar-api-v1@1.4.8, kibe@1.5.2-BETA, betternether@5.0.0, fabric-game-rule-api-v1@1.0.3+a4467d2a3a, bettercaves@1.16.2-1.0.3, dehydration@1.0.8, fabric-api-base@0.2.0+ba858fb83a, reborncore@4.6.1+build.97, backslot@1.1.7, fiber@0.23.0-1, cardinal-components-level@2.6.0, ce_foodstuffs@1.1.1, com_moandjiezana_toml_toml4j@0.7.2, org_jetbrains_kotlin_kotlin-stdlib@1.4.0, playerabilitylib@1.2.0, terraform-dirt-api-v1@1.0.0+build.1, fabric-blockrenderlayer-v1@1.1.4+6a2618f53a, terraform-wood-api-v1@1.0.0+build.1, org_jetbrains_kotlin_kotlin-stdlib-jdk7@1.4.0, libblockattributes_items@0.8.4, fabric@0.26.0+1.16, cardinal-components-scoreboard@2.6.0, dawn@1.5.3, fabric-networking-v0@0.1.10+e00ecb5f4e, techreborn@3.7.1+build.162, imm_ptl_core@0.43, fabric-screen-handler-api-v1@1.1.0+6a2618f53a, modmenu@1.14.6+build.31, blockshifter@1.3.2+fabric-1.16.4, phosphor@0.6.0+build.7, hookshot@10.0, fabric-tool-attribute-api-v1@1.2.5+6a2618f53a, org_jetbrains_kotlin_kotlin-stdlib-jdk8@1.4.0, terraform-tree-api-v1@1.0.1+build.2, rare-ice@0.2.2, fabric-crash-report-info-v1@0.1.2+b7f9825d3a, fabric-events-interaction-v0@0.4.1+6a2618f53a, whereisit@1.9.1, charmonium@2.0.2, fabric-language-kotlin@1.4.0+build.1, patchouli@1.16.2-44-FABRIC, fabric-key-binding-api-v1@1.0.1+730711c63a, cloth-config2@4.8.2, fabric-language-scala@0.3.2.12, org_jetbrains_kotlinx_kotlinx-coroutines-jdk8@1.3.9, fabric-resource-loader-v0@0.3.2+1944f3e03a, org_jetbrains_kotlin_kotlin-reflect@1.4.0, cardinal-components-entity@2.6.0, libblockattributes_fluids@0.8.4, fabric-commands-v0@0.2.0+6a2618f53a, fabric-registry-sync-v0@0.6.1+6a2618f53a, adorn@1.12.1+1.16.4, cardinal-components-base@2.6.0, fabric-mining-levels-v0@0.1.2+6a2618f53a, charm@2.1.1, fabric-models-v0@0.1.1+6a2618f53a, fabric-item-groups-v0@0.2.1+6a2618f53a, org_jetbrains_annotations@20.0.0, terraform-shapes-api-v1@1.0.0+build.1, lithium-api@0.6.0, fabric-renderer-api-v1@0.3.3+6a2618f53a, environmentz@1.0.5, terrestria@2.1.5+build.28, libcd@3.0.3+1.16.3, cardinal-components-block@2.6.0, fabric-structure-api-v1@1.1.0+f8ac1db23a, lithium@0.6.0, fabric-containers-v0@0.1.8+6a2618f53a, fabric-object-builder-api-v1@1.9.2+6a2618f53a, libblockattributes@0.8.4, terraform-config-api-v1@1.0.0+build.1, fabric-rendering-data-attachment-v1@0.1.4+6a2618f53a, cloth-dynamic-registry-api-v1@1.2.1, seasons@1.0.2-BETA, campanion@1.2.0+build.39, terraform-surfaces-api-v1@1.0.0+build.1, fabric-textures-v0@1.0.5+6a2618f53a, cardinal-components-item@2.6.0, com_electronwill_night-config_core@3.6.2, linkart@unspecified, fabric-rendering-fluids-v1@0.1.12+6a2618f53a, reach-entity-attributes@1.0.1, modern_industrialization@0.3.7, modid@1.16-fabric-0.1.0, simplexterrain@0.7.1, flamingo@1.0.3-MC1.16.3-fabric, fabric-lifecycle-events-v1@1.2.0+6a2618f53a, traverse@unspecified, cardinal-components-chunk@2.6.0, immersive_portals@0.43, fabric-renderer-registries-v1@2.2.0+6a2618f53a, cardinal-components-util@2.6.0, fabric-loot-tables-v1@1.0.1+6a2618f53a, cloth-armor-api-v1@1.4.8, fabric-particles-v1@0.2.2+6a2618f53a, libblockattributes_core@0.8.4, terraform-biome-builder-api-v1@1.0.0+build.1, minecraft@1.16.4, fabric-networking-blockentity-v0@0.2.5+6a2618f53a, cloth-basic-math@0.5.1, jankson@3.0.1+j1.2.0, fabric-command-api-v1@1.0.9+6a2618f53a, invtrashslot@1.0.2, amecsapi@1.1.1+mc1.16-rc1, fabric-renderer-indigo@0.4.3+6a2618f53a, com_electronwill_night-config_toml@3.6.2, fabric-item-api-v1@1.2.0+6a2618f53a, libgui@3.1.0+1.16.3, cardinal-components@2.6.0, fabric-rendering-v0@1.1.1+6a2618f53a, fabric-rendering-v1@1.4.0+6a2618f53a, terraform-overworld-biome-extensions-api-v1@1.0.0+build.1, direbats@1.0.0+1.16.3-fabric, autoconfig1u@3.3.1, fabric-content-registries-v0@0.1.9+6a2618f53a, fabric-tag-extensions-v0@1.0.3+6a2618f53a, cardinal-components-world@2.6.0, fabric-biome-api-v1@3.1.0+2e23b97c3a, advanced_runtime_resource_pack@0.2.9, appleskin@1.0.11, zoob@2.5.0, cinderscapes@1.2.4+build.43-1.16.4, voxelmap@1.10.11, fabric-events-lifecycle-v0@0.2.0+6a2618f53a, libstructure@1.5, betterend@0.6.2-beta, fabric-object-builders-v0@0.7.1+6a2618f53a, team_reborn_energy@0.1.0
+[15:08:04] [main/WARN]: Mod `fabric-language-scala` (0.3.2.12) uses more dot-separated version components than SemVer allows; support for this is currently not guaranteed.
+[15:08:04] [main/WARN]: Mod `linkart` (unspecified) does not respect SemVer - comparison support is limited.
+[15:08:04] [main/WARN]: Mod `traverse` (unspecified) does not respect SemVer - comparison support is limited.
+[15:08:04] [main/INFO]: SpongePowered MIXIN Subsystem Version=0.8.2 Source=file:/C:/Users/linli/Desktop/kyarutisai-server/fabric-server-launch.jar Service=Knot/Fabric Env=SERVER
+[15:08:07] [main/WARN]: @Mixin target net/minecraft/class_3898$class_3208 is public in fabric-networking-v[15:08:07] [main/WARN]: Force-disabling mixin 'world.player_chunk_t[15:08:07] [main/WARN]: Error loading class: net/minecraft/class_638 (java.lang.ClassNotFoundException: net/minecraft/class_638)
+[1[15:08:07] [main/INFO]: I used the json to destroy the json
+[15:08:07] [main/FATAL]: Failed to start the minecraft server
+joptsimple.UnrecognizedOptionException: X is not a recognized option
+	at joptsimple.OptionException.unrecognizedOption(OptionException.java:108) ~[intermediary-server.jar:?]
+	at joptsimple.OptionParser.validateOptionCharacters(OptionParser.java:633) ~[intermediary-server.jar:?]
+	at joptsimple.OptionParser.handleShortOptionCluster(OptionParser.java:528) ~[intermediary-server.jar:?]
+	at joptsimple.OptionParser.handleShortOptionToken(OptionParser.java:523) ~[intermediary-server.jar:?]
+	at joptsimple.OptionParserState$2.handleArgument(OptionParserState.java:59) ~[intermediary-server.jar:?]
+	at joptsimple.OptionParser.parse(OptionParser.java:396) ~[intermediary-server.jar:?]
+	at net.minecraft.server.Main.main(Main.java:78) [intermediary-server.jar:?]
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:1.8.0_271]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source) ~[?:1.8.0_271]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source) ~[?:1.8.0_271]
+	at java.lang.reflect.Method.invoke(Unknown Source) ~[?:1.8.0_271]
+	at net.fabricmc.loader.game.MinecraftGameProvider.launch(MinecraftGameProvider.java:224) [fabric-server-launch.jar:?]
+	at net.fabricmc.loader.launch.knot.Knot.init(Knot.java:141) [fabric-server-launch.jar:?]
+	at net.fabricmc.loader.launch.knot.KnotServer.main(KnotServer.java:27) [fabric-server-launch.jar:?]
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:1.8.0_271]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source) ~[?:1.8.0_271]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source) ~[?:1.8.0_271]
+	at java.lang.reflect.Method.invoke(Unknown Source) ~[?:1.8.0_271]
+	at net.fabricmc.loader.launch.server.FabricServerLauncher.launch(FabricServerLauncher.java:62) [fabric-server-launch.jar:?]
+	at net.fabricmc.loader.launch.server.FabricServerLauncher.setup(FabricServerLauncher.java:106) [fabric-server-launch.jar:?]
+	at net.fabricmc.loader.launch.server.FabricServerLauncher.main(FabricServerLauncher.java:50) [fabric-server-launch.jar:?]
